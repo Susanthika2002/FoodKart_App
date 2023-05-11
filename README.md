@@ -1,0 +1,3 @@
+# FoodKart_App
+Our Food Kart mobile application is all about delivering food door-to-door with good packaging and will recommend the food to the users according to their taste on their previous transactions. The application’s main purpose is to interact with the users with a good and ideal user interface and visually appealing food delivery web. 
+In our app, Individuals can order their tastes from their favorite places online at any moment in time. Another feature of this application is giving suggestions to the users by taking some keywords as input; based on their sentiments, it will predict the food items.
